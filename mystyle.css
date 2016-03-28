@@ -1,0 +1,16 @@
+h1 {
+  color: red;	
+}
+
+html {
+  background-color: grey;	
+  font-family: Verdana;	
+}
+
+div {
+  align-content: center;	
+}
+
+ul{
+  list-style-type: square;
+}
